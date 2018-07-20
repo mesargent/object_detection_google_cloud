@@ -1,0 +1,2121 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159.83999999999997,
+                "width": 237.59999999999997,
+                "x": 393.11999999999995,
+                "y": 0.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_1_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 164.15999999999997,
+                "width": 224.63999999999993,
+                "x": 269.28,
+                "y": -1.4399999999999997
+            }
+        ],
+        "class": "image",
+        "filename": "dice_1_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 159.83999999999997,
+                "width": 240.47999999999993,
+                "x": 61.91999999999999,
+                "y": -4.319999999999999
+            }
+        ],
+        "class": "image",
+        "filename": "dice_1_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 145.43999999999997,
+                "width": 112.31999999999998,
+                "x": -2.8799999999999955,
+                "y": -1.4399999999999977
+            }
+        ],
+        "class": "image",
+        "filename": "dice_1_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 199.0,
+                "width": 224.0,
+                "x": 425.0,
+                "y": 130.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_2_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 197.0,
+                "width": 215.0,
+                "x": 316.0,
+                "y": 117.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_2_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 213.0,
+                "width": 234.0,
+                "x": 28.0,
+                "y": 108.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_2_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 484.6457645879923,
+                "width": 510.6457645879923,
+                "x": -1.6457645879922893,
+                "y": -1.6457645879922893
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 502.3852396639062,
+                "width": 537.6570686346168,
+                "x": -18.112560822797377,
+                "y": -18.112560822797377
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 481.44612417114354,
+                "width": 589.1348730783568,
+                "x": 0.0,
+                "y": -0.9866160295710529
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 479.83958003068733,
+                "width": 645.4479306607476,
+                "x": -6.794188743797349,
+                "y": 0.8492735929746686
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 482.38740080961134,
+                "width": 720.1840068425183,
+                "x": -0.8492735929746686,
+                "y": -1.6985471859493373
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_5.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 479.83958003068733,
+                "width": 698.102893425177,
+                "x": 46.71004761360673,
+                "y": 0.8492735929746686
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_6.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 482.38740080961134,
+                "width": 687.0623367165063,
+                "x": 60.29842510120142,
+                "y": -1.6985471859493357
+            }
+        ],
+        "class": "image",
+        "filename": "dice_3_7.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.0024172891097,
+                "width": 264.9733610080964,
+                "x": 226.75604932423633,
+                "y": 102.7621047499348
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.700964475059,
+                "width": 268.37045537999506,
+                "x": 214.86621902259097,
+                "y": 99.36501037803615
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 233.55023806803368,
+                "width": 270.0690025659444,
+                "x": 183.44309608252826,
+                "y": 95.1186424131628
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 236.09805884695768,
+                "width": 269.21972897296973,
+                "x": 194.48365279119895,
+                "y": 94.26936882018813
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 238.6458796258817,
+                "width": 267.5211817870204,
+                "x": 208.9213038717683,
+                "y": 92.5708216342388
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_5.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 226.75604932423633,
+                "width": 259.0284458572737,
+                "x": 219.1125869874643,
+                "y": 95.1186424131628
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_6.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 226.75604932423633,
+                "width": 260.72699304322305,
+                "x": 205.5242094998696,
+                "y": 94.26936882018813
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_7.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 227.605322917211,
+                "width": 260.72699304322305,
+                "x": 196.1821999771483,
+                "y": 94.26936882018813
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_8.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 235.24878525398302,
+                "width": 263.27481382214705,
+                "x": 185.1416432684776,
+                "y": 98.51573678506148
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_9.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 230.153143696135,
+                "width": 262.4255402291724,
+                "x": 171.5532657808829,
+                "y": 100.21428397101081
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_10.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 234.39951166100835,
+                "width": 264.9733610080964,
+                "x": 167.30689781600958,
+                "y": 97.66646319208681
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_11.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 232.700964475059,
+                "width": 264.9733610080964,
+                "x": 168.15617140898425,
+                "y": 99.36501037803615
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_12.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 223.35895495233765,
+                "width": 258.17917226429904,
+                "x": 164.75907703708558,
+                "y": 95.1186424131628
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_13.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 225.90677573126166,
+                "width": 261.5762666361977,
+                "x": 156.2663411073389,
+                "y": 93.42009522721347
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_14.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 230.153143696135,
+                "width": 262.4255402291724,
+                "x": 143.52723721271886,
+                "y": 94.26936882018813
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_15.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.00241728910967,
+                "width": 268.37045537999506,
+                "x": 124.84321816727618,
+                "y": 93.42009522721347
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_16.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 236.09805884695768,
+                "width": 275.1646441237924,
+                "x": 109.55629349373216,
+                "y": 98.51573678506148
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_17.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.85169088208434,
+                "width": 276.0139177167671,
+                "x": 86.62590648341612,
+                "y": 97.66646319208681
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_18.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 236.09805884695768,
+                "width": 279.4110120886657,
+                "x": 70.48970821689743,
+                "y": 97.66646319208681
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_19.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.00241728910967,
+                "width": 281.95883286758976,
+                "x": 45.011500427657396,
+                "y": 95.1186424131628
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_20.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 237.79660603290702,
+                "width": 291.30084239031106,
+                "x": 16.13619826651869,
+                "y": 98.51573678506148
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_21.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 235.24878525398302,
+                "width": 292.15011598328573,
+                "x": -1.6985471859493373,
+                "y": 92.5708216342388
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_22.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.85169088208434,
+                "width": 280.2602856816404,
+                "x": -3.3970943718986746,
+                "y": 87.47518007639079
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_23.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 234.39951166100835,
+                "width": 263.27481382214705,
+                "x": 0.0,
+                "y": 91.72154804126413
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_24.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 242.89224759075503,
+                "width": 261.5762666361977,
+                "x": -5.9449151508226805,
+                "y": 97.66646319208681
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_25.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 236.09805884695768,
+                "width": 248.83716274157769,
+                "x": -11.889830301645361,
+                "y": 91.72154804126413
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_26.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 227.605322917211,
+                "width": 231.85169088208434,
+                "x": -7.643462336772018,
+                "y": 96.81718959911214
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_27.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 231.00241728910967,
+                "width": 218.26331339448964,
+                "x": -8.492735929746686,
+                "y": 96.81718959911214
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_28.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 237.79660603290702,
+                "width": 197.88074716309762,
+                "x": -0.8492735929746686,
+                "y": 100.21428397101081
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_29.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 230.15314369613503,
+                "width": 184.29236967550293,
+                "x": -0.8492735929746686,
+                "y": 101.91283115696012
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_30.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 225.05750213828702,
+                "width": 177.49818093170558,
+                "x": -5.095641557848012,
+                "y": 101.06355756398546
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_31.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220.81113417341365,
+                "width": 171.55326578088292,
+                "x": -5.095641557848012,
+                "y": 96.81718959911214
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_32.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 226.75604932423633,
+                "width": 167.30689781600958,
+                "x": -8.492735929746686,
+                "y": 88.32445366936545
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_33.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 220.81113417341365,
+                "width": 155.41706751436422,
+                "x": -4.246367964873343,
+                "y": 90.87227444828946
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_34.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 222.509681359363,
+                "width": 158.8141618862629,
+                "x": -5.095641557848012,
+                "y": 92.5708216342388
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_35.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 215.71549261556564,
+                "width": 152.01997314246555,
+                "x": -3.3970943718986746,
+                "y": 93.42009522721347
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_36.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 214.86621902259097,
+                "width": 157.96488829328823,
+                "x": -11.889830301645361,
+                "y": 93.42009522721347
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_37.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 219.82704337784565,
+                "width": 153.6546170549227,
+                "x": -5.607832739230756,
+                "y": 91.9684569233844
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_38.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 238.89367469123016,
+                "width": 149.1683508635381,
+                "x": -4.486266191384605,
+                "y": 85.23905763630749
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_39.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 234.4074084998456,
+                "width": 145.80365121999967,
+                "x": -5.607832739230756,
+                "y": 81.87435799276903
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_40.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 246.74464052615326,
+                "width": 142.4389515764612,
+                "x": -4.486266191384605,
+                "y": 80.75279144492288
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_41.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224.31330956923023,
+                "width": 142.4389515764612,
+                "x": -7.850965834923058,
+                "y": 84.11749108846134
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_42.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 226.55644266492254,
+                "width": 141.31738502861506,
+                "x": -11.215665478461512,
+                "y": 79.63122489707673
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_43.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 227.6780092127687,
+                "width": 136.83111883723043,
+                "x": -7.850965834923058,
+                "y": 80.75279144492288
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_44.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 235.52897504769174,
+                "width": 135.7095522893843,
+                "x": -10.09409893061536,
+                "y": 80.75279144492288
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_45.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 228.7995757606148,
+                "width": 135.70955228938428,
+                "x": -7.850965834923058,
+                "y": 85.23905763630749
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_46.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 235.52897504769172,
+                "width": 142.4389515764612,
+                "x": -8.97253238276921,
+                "y": 87.4821907319998
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_47.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 236.6505415955379,
+                "width": 146.92521776784582,
+                "x": -6.729399287076907,
+                "y": 81.87435799276903
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_48.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 242.2583743347687,
+                "width": 151.41148395923042,
+                "x": -5.607832739230756,
+                "y": 79.63122489707673
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_49.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 241.1368077869225,
+                "width": 163.74871598553807,
+                "x": -11.215665478461512,
+                "y": 76.26652525353828
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_50.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 240.01524123907635,
+                "width": 164.87028253338423,
+                "x": -4.486266191384605,
+                "y": 77.38809180138443
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_51.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 247.8662070739994,
+                "width": 165.99184908123036,
+                "x": -3.3646996435384535,
+                "y": 76.26652525353828
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_52.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 238.89367469123022,
+                "width": 179.4506476553842,
+                "x": -8.97253238276921,
+                "y": 79.63122489707673
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_53.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 235.52897504769174,
+                "width": 183.9369138467688,
+                "x": -8.97253238276921,
+                "y": 82.99592454061519
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_54.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 246.74464052615326,
+                "width": 179.4506476553842,
+                "x": -4.486266191384605,
+                "y": 82.99592454061519
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_55.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 256.8387394567686,
+                "width": 185.05848039461495,
+                "x": -6.729399287076907,
+                "y": 106.54882204538436
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_56.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 262.44657219599935,
+                "width": 178.32908110753803,
+                "x": -7.850965834923058,
+                "y": 145.80365121999967
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_57.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 273.6622376744609,
+                "width": 161.50558288984578,
+                "x": -6.729399287076907,
+                "y": 179.4506476553842
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_58.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 268.05440493523014,
+                "width": 143.56051812430735,
+                "x": -11.215665478461512,
+                "y": 203.00354516015335
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_59.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 261.3250056481532,
+                "width": 123.37232026307663,
+                "x": -7.850965834923058,
+                "y": 217.58391028215334
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_60.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 251.23090671753786,
+                "width": 105.42725549753821,
+                "x": -12.337232026307664,
+                "y": 218.70547682999947
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_61.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 216.46234373430718,
+                "width": 79.63122489707672,
+                "x": -8.97253238276921,
+                "y": 226.55644266492254
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_62.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 213.0976440907687,
+                "width": 63.929293227230616,
+                "x": -6.729399287076907,
+                "y": 227.6780092127687
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_63.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 160.3840163419996,
+                "width": 47.105795009538355,
+                "x": -5.607832739230756,
+                "y": 280.3916369615378
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_64.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 104.30568894969207,
+                "width": 30.282296791846083,
+                "x": -5.607832739230756,
+                "y": 328.6189985189223
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_65.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 81.87435799276903,
+                "width": 24.674464052615324,
+                "x": -5.607832739230756,
+                "y": 342.07779709307613
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_66.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 116.64292097599974,
+                "width": 38.13326262676914,
+                "x": -7.850965834923058,
+                "y": 308.4308006576916
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_67.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 219.82704337784563,
+                "width": 63.929293227230616,
+                "x": -10.09409893061536,
+                "y": 218.70547682999947
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_68.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 247.86620707399942,
+                "width": 96.45472311476901,
+                "x": -5.607832739230756,
+                "y": 206.36824480369182
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_69.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 277.02693731799934,
+                "width": 137.9526853850766,
+                "x": -7.850965834923058,
+                "y": 189.54474658599955
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_70.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 277.02693731799934,
+                "width": 161.50558288984578,
+                "x": -5.607832739230756,
+                "y": 164.87028253338423
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_71.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 289.364169344307,
+                "width": 199.6388455166149,
+                "x": -8.97253238276921,
+                "y": 143.56051812430735
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_72.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 299.4582682749224,
+                "width": 217.58391028215334,
+                "x": -5.607832739230756,
+                "y": 140.1958184807689
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_73.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 296.09356863138396,
+                "width": 236.6505415955379,
+                "x": -2.2431330956923023,
+                "y": 167.1134156290765
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_74.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 303.944534466307,
+                "width": 233.28584195199943,
+                "x": -3.3646996435384535,
+                "y": 172.72124836830727
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_75.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 294.97200208353775,
+                "width": 225.43487611707639,
+                "x": -1.1215665478461512,
+                "y": 173.84281491615343
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_76.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 296.0935686313839,
+                "width": 236.6505415955379,
+                "x": -1.1215665478461512,
+                "y": 164.87028253338423
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_77.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 300.5798348227685,
+                "width": 241.1368077869225,
+                "x": 0.0,
+                "y": 150.28991741138427
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_78.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 298.33670172707616,
+                "width": 262.4465721959994,
+                "x": -1.1215665478461512,
+                "y": 139.07425193292275
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_79.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 302.8229679184608,
+                "width": 246.74464052615326,
+                "x": -2.2431330956923023,
+                "y": 154.77618360276887
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_80.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 300.5798348227685,
+                "width": 241.1368077869225,
+                "x": -1.1215665478461512,
+                "y": 178.32908110753803
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_81.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 308.43080065769163,
+                "width": 240.01524123907635,
+                "x": 0.0,
+                "y": 167.1134156290765
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_82.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 315.16019994476846,
+                "width": 235.52897504769174,
+                "x": 0.0,
+                "y": 150.28991741138427
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_83.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 318.5248995883069,
+                "width": 254.5956063610763,
+                "x": 0.0,
+                "y": 137.9526853850766
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_84.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 315.16019994476846,
+                "width": 270.29753803092245,
+                "x": -1.1215665478461512,
+                "y": 140.1958184807689
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_85.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 323.0111657796915,
+                "width": 264.68970529169167,
+                "x": 0.0,
+                "y": 135.7095522893843
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_86.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 326.37586542323,
+                "width": 270.29753803092245,
+                "x": 1.1215665478461512,
+                "y": 145.80365121999967
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_87.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 314.0386333969223,
+                "width": 280.3916369615378,
+                "x": 0.0,
+                "y": 165.99184908123038
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_88.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 317.4033330404608,
+                "width": 284.8779031529224,
+                "x": 0.0,
+                "y": 161.50558288984575
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_89.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 327.49743197107614,
+                "width": 299.4582682749224,
+                "x": 1.1215665478461512,
+                "y": 148.04678431569195
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_90.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 334.226831258153,
+                "width": 292.72886898784543,
+                "x": 1.1215665478461512,
+                "y": 124.49388681092277
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_91.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 325.2542988753838,
+                "width": 329.74056506676845,
+                "x": 0.0,
+                "y": 150.28991741138427
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_92.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 315.16019994476846,
+                "width": 363.387561502153,
+                "x": 0.0,
+                "y": 163.74871598553807
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_93.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 321.8895992318454,
+                "width": 385.818892459076,
+                "x": 1.1215665478461512,
+                "y": 159.26244979415347
+            }
+        ],
+        "class": "image",
+        "filename": "dice_4_94.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 199.63884551661494,
+                "width": 229.921142308461,
+                "x": 242.25837433476866,
+                "y": 172.72124836830727
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207.48981135153795,
+                "width": 231.04270885630717,
+                "x": 245.6230739783071,
+                "y": 169.35654872476883
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 211.97607754292255,
+                "width": 229.92114230846096,
+                "x": 269.1759714830763,
+                "y": 164.87028253338423
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 211.97607754292258,
+                "width": 232.16427540415327,
+                "x": 302.8229679184608,
+                "y": 167.1134156290765
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 213.0976440907687,
+                "width": 232.16427540415333,
+                "x": 340.95623054522997,
+                "y": 165.99184908123038
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_5.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 206.36824480369182,
+                "width": 234.4074084998456,
+                "x": 382.45419281553757,
+                "y": 172.72124836830727
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_6.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 211.97607754292255,
+                "width": 242.2583743347687,
+                "x": 423.95215508584516,
+                "y": 172.72124836830727
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_7.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 211.97607754292258,
+                "width": 246.74464052615326,
+                "x": 453.1128853298451,
+                "y": 179.4506476553842
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_8.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 216.46234373430718,
+                "width": 245.6230739783071,
+                "x": 459.842284616922,
+                "y": 174.9643814639996
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_9.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 215.34077718646103,
+                "width": 242.2583743347687,
+                "x": 439.65408675569125,
+                "y": 174.9643814639996
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_10.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 209.73294444723024,
+                "width": 242.25837433476863,
+                "x": 426.1952881815374,
+                "y": 174.9643814639996
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_11.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207.48981135153798,
+                "width": 242.25837433476863,
+                "x": 425.0737216336913,
+                "y": 173.84281491615343
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_12.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 210.85451099507642,
+                "width": 237.77210814338406,
+                "x": 427.3168547293836,
+                "y": 170.47811527261499
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_13.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 209.73294444723027,
+                "width": 236.65054159553785,
+                "x": 434.0462540164605,
+                "y": 171.59968182046114
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_14.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 224.31330956923026,
+                "width": 241.13680778692247,
+                "x": 437.41095365999894,
+                "y": 169.35654872476883
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_15.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 206.3682448036918,
+                "width": 235.5289750476918,
+                "x": 450.86975223415277,
+                "y": 179.4506476553842
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_16.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 206.36824480369182,
+                "width": 234.40740849984553,
+                "x": 444.1403529470759,
+                "y": 182.81534729892263
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_17.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 210.85451099507642,
+                "width": 234.40740849984553,
+                "x": 434.0462540164605,
+                "y": 179.4506476553842
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_18.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 211.97607754292255,
+                "width": 232.16427540415327,
+                "x": 432.92468746861437,
+                "y": 176.08594801184574
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_19.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 217.5839102821533,
+                "width": 233.2858419519995,
+                "x": 438.5325202078451,
+                "y": 169.35654872476883
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_20.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 206.36824480369182,
+                "width": 241.13680778692247,
+                "x": 437.41095365999894,
+                "y": 165.99184908123038
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_21.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 207.48981135153795,
+                "width": 226.55644266492254,
+                "x": 435.1678205643067,
+                "y": 169.35654872476883
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_22.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 205.2466782558457,
+                "width": 234.4074084998456,
+                "x": 410.49335651169133,
+                "y": 167.1134156290765
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_23.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 205.24667825584564,
+                "width": 224.31330956923017,
+                "x": 393.6698582939991,
+                "y": 169.35654872476883
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_24.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 198.51727896876878,
+                "width": 225.43487611707644,
+                "x": 365.63069459784526,
+                "y": 172.72124836830727
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_25.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 203.00354516015335,
+                "width": 214.2192106386148,
+                "x": 340.95623054522997,
+                "y": 176.08594801184574
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_26.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 208.6113778993841,
+                "width": 223.19174302138407,
+                "x": 300.57983482276853,
+                "y": 168.23498217692267
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_27.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 196.27414587307644,
+                "width": 218.70547682999944,
+                "x": 270.29753803092245,
+                "y": 170.47811527261499
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_28.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 195.1525793252303,
+                "width": 217.5839102821533,
+                "x": 238.8936746912302,
+                "y": 164.87028253338423
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_29.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 190.6663131338457,
+                "width": 211.9760775429226,
+                "x": 213.0976440907687,
+                "y": 168.23498217692267
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_30.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 191.78787968169186,
+                "width": 219.82704337784563,
+                "x": 178.32908110753803,
+                "y": 167.1134156290765
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_31.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 189.54474658599955,
+                "width": 220.94860992569176,
+                "x": 143.56051812430735,
+                "y": 167.1134156290765
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_32.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 186.0,
+                "width": 224.0,
+                "x": 104.0,
+                "y": 168.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_33.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 187.0,
+                "width": 230.0,
+                "x": 62.0,
+                "y": 170.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_34.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 188.0,
+                "width": 238.0,
+                "x": 18.0,
+                "y": 167.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_35.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 187.0,
+                "width": 219.0,
+                "x": -1.0,
+                "y": 169.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_36.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 194.0,
+                "width": 182.0,
+                "x": -1.0,
+                "y": 169.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_37.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 178.0,
+                "width": 139.0,
+                "x": -2.0,
+                "y": 185.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_38.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 168.0,
+                "width": 92.0,
+                "x": -2.0,
+                "y": 200.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_39.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 135.0,
+                "width": 50.0,
+                "x": -1.0,
+                "y": 213.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_5_40.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 174.0,
+                "width": 202.0,
+                "x": 434.0,
+                "y": 192.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_1.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 169.0,
+                "width": 197.0,
+                "x": 433.0,
+                "y": 189.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 175.0,
+                "width": 198.0,
+                "x": 443.0,
+                "y": 184.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_3.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 181.0,
+                "width": 207.0,
+                "x": 466.0,
+                "y": 184.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_4.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 184.0,
+                "width": 215.0,
+                "x": 495.0,
+                "y": 182.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_5.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 186.0,
+                "width": 206.0,
+                "x": 538.0,
+                "y": 185.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_6.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 186.0,
+                "width": 164.0,
+                "x": 582.0,
+                "y": 194.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_7.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 183.0,
+                "width": 122.0,
+                "x": 623.0,
+                "y": 196.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_8.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 171.0,
+                "width": 105.0,
+                "x": 640.0,
+                "y": 201.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_9.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 170.0,
+                "width": 116.0,
+                "x": 630.0,
+                "y": 200.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_10.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 171.0,
+                "width": 111.0,
+                "x": 634.0,
+                "y": 192.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_11.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 169.0,
+                "width": 116.0,
+                "x": 629.0,
+                "y": 190.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_12.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 173.0,
+                "width": 118.0,
+                "x": 626.0,
+                "y": 191.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_13.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 174.0,
+                "width": 122.0,
+                "x": 621.0,
+                "y": 202.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_14.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "rect",
+                "height": 173.0,
+                "width": 121.0,
+                "x": 625.0,
+                "y": 199.0
+            }
+        ],
+        "class": "image",
+        "filename": "dice_6_15.jpg"
+    }
+]
